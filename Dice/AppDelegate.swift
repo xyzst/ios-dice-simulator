@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Dicee-iOS13
+//  Dice
 //
-//  Created by Angela Yu on 11/06/2019.
-//  Copyright © 2019 London App Brewery. All rights reserved.
+//  Created by Darren Rambaud on 01/31/2020.
+//  Copyright © 2020 Darren Rambaud. All rights reserved.
 //
 
 import UIKit
